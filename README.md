@@ -1,0 +1,2 @@
+# DigiBuddy
+Your AI assistant
